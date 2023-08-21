@@ -1,6 +1,0 @@
-
-{{#user}}
-Name: Priyadarshini
-Skills: HTML, CSS, JS, NextJS, React JS
-Email: glenraise@gmail.com
-{{/user}}
